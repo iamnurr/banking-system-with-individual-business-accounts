@@ -17,6 +17,7 @@ cp .env.example .env
 php artisan key:generate
 ```
 
+#### setup .env file
 ```php
 php artisan migrate
 ```
@@ -28,8 +29,6 @@ npm install
 ```php
 npm run dev
 ```
-
-#### setup .env file
 
 ```php
 php artisan serve
