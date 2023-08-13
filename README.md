@@ -27,7 +27,7 @@ npm install
 ```
 
 ```php
-npm run dev
+npm run build
 ```
 
 ```php
